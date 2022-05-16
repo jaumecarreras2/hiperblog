@@ -4,4 +4,9 @@ body
     color: aqua;
     font-size: 50px;
     background-color:rgb(165, 226, 43);
+
+}
+
+p.nuevotexto {
+    color:brown; 
 }
